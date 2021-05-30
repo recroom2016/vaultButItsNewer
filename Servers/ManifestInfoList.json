@@ -1,0 +1,14 @@
+[
+  {
+    "ManifestString": "5112800850661766506",
+    "FriendlyName": "September 27th, 2018",
+    "ManifestPatchInfo": {
+      "AssemmblyURL": "https://cdn.discordapp.com/attachments/835502486190030918/846555253071282187/Assembly-CSharp.dll",
+      "AssemmblyHash": "b3133d153a7cb10ea5436273d8d40e84",
+      "PUNAppIDOffset": 165303984,
+      "VoiceAppIDOffset": 165304024
+    },
+    "RequiresRecNet": true,
+    "ServerName": "VaultServer2018"
+  }
+]
