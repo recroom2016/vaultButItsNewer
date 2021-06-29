@@ -3,12 +3,12 @@
     "ManifestString": "5112800850661766506",
     "FriendlyName": "September 27th, 2018",
     "ManifestPatchInfo": {
-      "AssemmblyURL": "https://cdn.discordapp.com/attachments/834091469094256700/857945250189279232/Assembly-CSharp.dll",
-      "AssemmblyHash": "39710658bfe783db8f248bc05852e9f2",
+      "AssemmblyURL": "https://cdn.discordapp.com/attachments/858355006873141248/859281750936125450/Assembly-CSharp.dll",
+      "AssemmblyHash": "15e73e462d45bc8a29ea019f30b40aa8",
       "PUNAppIDOffset": 165303984,
       "VoiceAppIDOffset": 165304024
     },
     "RequiresRecNet": true,
-    "ServerName": "VaultServer20187"
+    "ServerName": "RecRoomNEWER"
   }
 ]
