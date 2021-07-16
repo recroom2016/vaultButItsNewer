@@ -1,7 +1,7 @@
 [
   {
     "ManifestString": "5112800850661766506",
-    "FriendlyName": "September 27, 2018",
+    "FriendlyName": "September 27th, 2018",
     "ManifestPatchInfo": {
       "AssemmblyURL": "https://cdn.discordapp.com/attachments/849423121994874902/862023436595625994/Assembly-CSharp.dll",
       "AssemmblyHash": "d3c7d265a1eba087b33a2b637790d0c9",
@@ -13,7 +13,7 @@
   },
  {
     "ManifestString": "4180590405597713716",
-    "FriendlyName": "2016",
+    "FriendlyName": "July 31th,2018 (Unused RecCenter Build)",
     "ManifestPatchInfo": {
       "AssemmblyURL": "https://cdn.discordapp.com/attachments/862524743467008020/865515582169284608/Assembly-CSharp.dll",
       "AssemmblyHash": "818302a73dc0473c08c8cbabbd4d401a",
