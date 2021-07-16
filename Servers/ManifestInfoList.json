@@ -12,15 +12,15 @@
     "ServerName": "RecRoomNEWER"
   },
  {
-    "ManifestString": "test",
-    "FriendlyName": "just a test!",
+    "ManifestString": "4180590405597713716",
+    "FriendlyName": "2016",
     "ManifestPatchInfo": {
-      "AssemmblyURL": "https://cdn.discordapp.com/attachments/849423121994874902/862023436595625994/Assembly-CSharp.dll",
-      "AssemmblyHash": "d3c7d265a1eba087b33a2b637790d0c9",
+      "AssemmblyURL": "https://cdn.discordapp.com/attachments/862524743467008020/865515582169284608/Assembly-CSharp.dll",
+      "AssemmblyHash": "818302a73dc0473c08c8cbabbd4d401a",
       "PUNAppIDOffset": 165303984,
       "VoiceAppIDOffset": 165304024
     },
-    "RequiresRecNet": true,
+    "RequiresRecNet": false,
     "ServerName": "RecRoomNEWER"
   }
 ]
