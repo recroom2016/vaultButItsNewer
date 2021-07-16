@@ -12,7 +12,7 @@
     "ServerName": "RecRoomNEWER"
   },
  {
-    "ManifestString": "6943606948982362268",
+    "ManifestString": "test",
     "FriendlyName": "just a test!",
     "ManifestPatchInfo": {
       "AssemmblyURL": "https://cdn.discordapp.com/attachments/849423121994874902/862023436595625994/Assembly-CSharp.dll",
