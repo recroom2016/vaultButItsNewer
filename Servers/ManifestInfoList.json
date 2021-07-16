@@ -20,6 +20,6 @@
       "PUNAppIDOffset": 165303984,
       "VoiceAppIDOffset": 165304024
     },
-    "RequiresRecNet": true,
+    "RequiresRecNet": false,
     "ServerName": "RecRoomNEWER"
   }
