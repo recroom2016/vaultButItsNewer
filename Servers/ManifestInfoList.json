@@ -16,8 +16,8 @@
     "ManifestString": "4180590405597713716",
     "FriendlyName": "June 28th, 2016",
     "ManifestPatchInfo": {
-      "AssemmblyURL": "",
-      "AssemmblyHash": "",
+      "AssemmblyURL": "https://cdn.discordapp.com/attachments/862524743467008020/865515582169284608/Assembly-CSharp.dll",
+      "AssemmblyHash": "818302a73dc0473c08c8cbabbd4d401a",
       "PUNAppIDOffset": 165303984,
       "VoiceAppIDOffset": 165304024
     },
