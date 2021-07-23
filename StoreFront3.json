@@ -3567,9 +3567,9 @@
             ]
         },
         {
-            "PurchasableItemId": 1167,
+            "PurchasableItemId": 1157,
             "Type": 0,
-            "IsFeatured": false,
+            "IsFeatured": true,
             "Prices": [
                 {
                     "CurrencyType": 2,
@@ -3578,14 +3578,14 @@
             ],
             "GiftDrops": [
                 {
-                    "GiftDropId": 1167,
-                    "FriendlyName": "Winter Hat (Black, White)",
+                    "GiftDropId": 1158,
+                    "FriendlyName": "Winter Hat (Black, White) (THIS PROB WON"T WON WORK)",
                     "Tooltip": "",
                     "AvatarItemDesc": "24c4404a-839f-46bd-98b6-6848d747a98b,891d902e-3257-4a8c-9001-858046007997,,",
                     "ConsumableItemDesc": "",
                     "EquipmentPrefabName": "",
                     "EquipmentModificationGuid": "",
-                    "Rarity": 30,
+                    "Rarity": 50,
                     "IsQuery": false,
                     "Unique": false,
                     "Level": 1,
