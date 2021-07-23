@@ -3567,7 +3567,7 @@
             ]
         },
         {
-            "PurchasableItemId": 1164,
+            "PurchasableItemId": 1167,
             "Type": 0,
             "IsFeatured": false,
             "Prices": [
@@ -3578,7 +3578,7 @@
             ],
             "GiftDrops": [
                 {
-                    "GiftDropId": 1164,
+                    "GiftDropId": 1167,
                     "FriendlyName": "Winter Hat (Black, White)",
                     "Tooltip": "",
                     "AvatarItemDesc": "24c4404a-839f-46bd-98b6-6848d747a98b,891d902e-3257-4a8c-9001-858046007997,,",
