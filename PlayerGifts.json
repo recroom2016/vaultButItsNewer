@@ -1,52 +1,10 @@
 {
-  "LastUpdated": "2021-07-30T14:27:20+00:00",
+  "LastUpdated": "2021-07-30T14:32:20+00:00",
   "UserGifts": {
     "2842262378": [
       {
         "Id": 7009,
-        "AvatarItemDesc": "3a790be3-2937-44d4-be01-b5d65353bd3d,,,",
-        "ConsumableItemDesc": "",
-        "EquipmentPrefabName": "",
-        "EquipmentModificationGuid": "",
-        "CurrencyType": 0,
-        "Currency": 0,
-        "Xp": 0,
-        "Level": 0,
-        "GiftRarity": 50,
-        "Message": "lol",
-        "Context": 2
-      },
-      {
-        "Id": 7010,
-        "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,,,",
-        "ConsumableItemDesc": "",
-        "EquipmentPrefabName": "",
-        "EquipmentModificationGuid": "",
-        "CurrencyType": 0,
-        "Currency": 0,
-        "Xp": 0,
-        "Level": 0,
-        "GiftRarity": 50,
-        "Message": "lol",
-        "Context": 2
-      },
-      {
-        "Id": 7011,
-        "AvatarItemDesc": "3757149b-f478-4975-81e5-d808a1bed8d5,,,",
-        "ConsumableItemDesc": "",
-        "EquipmentPrefabName": "",
-        "EquipmentModificationGuid": "",
-        "CurrencyType": 0,
-        "Currency": 0,
-        "Xp": 0,
-        "Level": 0,
-        "GiftRarity": 50,
-        "Message": "lol",
-        "Context": 2
-      },
-      {
-        "Id": 7012,
-        "AvatarItemDesc": "102c625b-b988-4bf8-a2aa-a31ad7029cdc,ccf1ccc1-e229-4157-bb74-f2cdef01e547,bd4a84e2-b67a-4269-a26a-17fb23ddb09e,",
+        "AvatarItemDesc": " 102c625b-b988-4bf8-a2aa-a31ad7029cdc,ccf1ccc1-e229-4157-bb74-f2cdef01e547,,bd4a84e2-b67a-4269-a26a-17fb23ddb09e",
         "ConsumableItemDesc": "",
         "EquipmentPrefabName": "",
         "EquipmentModificationGuid": "",
