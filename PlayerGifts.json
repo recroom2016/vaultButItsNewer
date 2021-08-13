@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2021-08-13T09:40:57+00:00",
+  "LastUpdated": "2021-08-13T09:53:38+00:00",
   "UserGifts": {
     "1727281811 ": [
       {
@@ -8,7 +8,7 @@
         "ConsumableItemDesc": "",
         "EquipmentPrefabName": "",
         "EquipmentModificationGuid": "",
-        "CurrencyType": 0,
+        "CurrencyType": 2,
         "Currency": 30000,
         "Xp": 0,
         "Level": 0,
