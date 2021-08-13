@@ -1,19 +1,19 @@
 {
-  "LastUpdated": "2021-07-30T14:32:20+00:00",
+  "LastUpdated": "2021-08-13T09:40:57+00:00",
   "UserGifts": {
-    "2842262378": [
+    "1727281811 ": [
       {
         "Id": 7009,
-        "AvatarItemDesc": "102c625b-b988-4bf8-a2aa-a31ad7029cdc,ccf1ccc1-e229-4157-bb74-f2cdef01e547,,bd4a84e2-b67a-4269-a26a-17fb23ddb09e",
+        "AvatarItemDesc": "",
         "ConsumableItemDesc": "",
         "EquipmentPrefabName": "",
         "EquipmentModificationGuid": "",
         "CurrencyType": 0,
-        "Currency": 0,
+        "Currency": 30000,
         "Xp": 0,
         "Level": 0,
         "GiftRarity": 50,
-        "Message": "lol",
+        "Message": "S",
         "Context": 2
       },
     ]
