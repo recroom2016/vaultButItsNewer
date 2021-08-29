@@ -9,11 +9,11 @@
       "VoiceAppIDOffset": 165304024
     },
     "RequiresRecNet": true,
-    "ServerName": "RecRoomNEWER"
+    "ServerName": "RecNet2018.exe"
   },
  {
     "ManifestString": "4180590405597713716",
-    "FriendlyName": "July 31th,2018 (Unused RecCenter Build)",
+    "FriendlyName": "July 31th,2018 (Unused RecCenter Build) (Not Out YET)",
     "ManifestPatchInfo": {
       "AssemmblyURL": "https://cdn.discordapp.com/attachments/862524743467008020/865515582169284608/Assembly-CSharp.dll",
       "AssemmblyHash": "818302a73dc0473c08c8cbabbd4d401a",
@@ -21,6 +21,6 @@
       "VoiceAppIDOffset": 165304024
     },
     "RequiresRecNet": false,
-    "ServerName": "RecRoomNEWER"
+    "ServerName": "RecNet2018.exe"
   }
 ]
